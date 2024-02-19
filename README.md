@@ -15,7 +15,6 @@
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kuhrmdhn&theme=tokyonight&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kuhrmdhn&theme=tokyonight&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
 # ⚔ Codewars Stats:
-![Codewars](https://www.codewars.com/users/kuhrmdhn/badges/large)
 ![Codewars](https://github.r2v.ch/codewars?user=kuhrmdhn&stroke=COLOR)
 
 ![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
