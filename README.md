@@ -1,7 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kukuh Ardi Ramadhan</h1>
 <h3 align="center">Self-taught FrontEnd Web Developer</h3>
 
-- 🌱 I’m currently learning **React JS, and Typescript**
+- 🌱 I’m currently learning **React JS, Next JS, and Typescript**
 
 - 💬 Ask me about **HTML, CSS, Tailwind CSS, React JS**
 
