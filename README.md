@@ -1,9 +1,7 @@
 <h1 align="center">Hi 👋, I'm Kukuh Ardi Ramadhan</h1>
-<h3 align="center">Self-taught FrontEnd Web Developer</h3>
+<h3 align="center">FrontEnd Web Developer</h3>
 
 - 🌱 I’m currently learning **React JS, Next JS, and Typescript**
-
-- 💬 Ask me about **HTML, CSS, Tailwind CSS, React JS**
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/kuh.rmdhn) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/kukuh-ardi-ramadhan) 
