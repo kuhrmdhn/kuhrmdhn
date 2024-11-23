@@ -29,7 +29,7 @@
 
 ###
 
-<p align="left">I'm Kukuh from Indonesia<br><br>- 🌱 I’m currently learning React JS, and Typescript<br><br>- 👨‍💻 My portfolio website https://kuhrmdhn.vercel.app<br><br>- 🌧 I like rain, moon and stars</p>
+<p align="left">I'm Kukuh from Indonesia<br><br>- 🌱 I’m currently learning React JS, and Typescript<br><br>- 👨‍💻 My portfolio website https://kuhrmdhn.my.id<br><br>- 🌧 I like rain, moon and stars</p>
 
 ###
 
