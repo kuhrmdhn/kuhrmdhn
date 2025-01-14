@@ -12,7 +12,4 @@ Hi I am Kukuh Ardi Ramadhan, I am an enthusiastic and passionate front end web d
 ![](https://github-readme-streak-stats.herokuapp.com/?user=kuhrmdhn&theme=blue_navy&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=kuhrmdhn&theme=blue_navy&hide_border=true&include_all_commits=false&count_private=false&layout=compact)
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=vetical&theme=light)
-
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
